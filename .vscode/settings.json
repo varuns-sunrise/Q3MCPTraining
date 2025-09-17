@@ -49,7 +49,7 @@
             "server": "${env:SQL_SERVER}",
             "database": "${env:SQL_DATABASE}",
             "user": "${env:SQL_USERNAME}",
-            "password": "${env:SQL_PASSWORD}",
+            "password": "",
             "port": 1433,
             "connectionTimeout": 30,
             "requestTimeout": 30,
